@@ -37,3 +37,10 @@ yhteistyötä GitHubin avulla.
 - Git
 - GitHub
 - Visual Studio Code
+
+
+## Harjoituksen vaiheet
+1. Repositorion luominen
+2. Commitien tekeminen
+3. Haarojen käyttäminen
+4. Merge-konfliktin ratkaiseminen
