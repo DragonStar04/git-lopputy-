@@ -44,3 +44,11 @@ yhteistyötä GitHubin avulla.
 2. Commitien tekeminen
 3. Haarojen käyttäminen
 4. Merge-konfliktin ratkaiseminen
+
+
+## Uusi ominaisuus
+
+Tässä haarassa harjoittelen uuden ominaisuuden
+lisäämistä projektiin.
+
+Lisäsin projektiin uuden osion feature-haarassa.
