@@ -88,3 +88,23 @@ käyttämällä Accept Both -toimintoa.
 Harjoittelin myös Push- ja Pull-toimintoja.
 Lopuksi loin GitHubissa Pull Requestin ja yhdistin
 feature-haaran main-haaraan.
+
+
+### Mitä opin?
+
+Opin luomaan GitHub-repositorion ja kloonaamaan
+sen Visual Studio Codeen.
+
+Opin tekemään committeja ja kirjoittamaan niille
+selkeät viestit.
+
+Opin luomaan ja käyttämään uusia haaroja sekä
+yhdistämään niitä toisiinsa.
+
+Opin, miten merge-konflikti syntyy ja miten se
+ratkaistaan Visual Studio Codessa.
+
+Opin käyttämään Push- ja Pull-toimintoja sekä
+luomaan Pull Requestin GitHubissa.
+
+
