@@ -20,3 +20,9 @@ Tämän projektin tarkoituksena on harjoitella Git-versionhallintaa ja GitHubin 
 
 ## Mitä opin?
 Opin käyttämään Git-versionhallintaa, tekemään committeja, luomaan haaroja sekä ratkaisemaan merge-konflikteja.
+
+
+
+## Projektin kuvaus
+Tämä on harjoitustyö, jossa opettelen Gitin
+ja GitHubin käyttöä.
