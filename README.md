@@ -1,3 +1,5 @@
+Nimi: Erton Bytyqi
+Opiskelijanumero: 2508584
 
 # Git-harjoitustyö
 
