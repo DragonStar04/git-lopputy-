@@ -31,3 +31,9 @@ ja GitHubin käyttöä.
 ## Projektin tavoitteet
 Harjoittelen versionhallintaa ja
 yhteistyötä GitHubin avulla.
+
+
+## Työkalut
+- Git
+- GitHub
+- Visual Studio Code
