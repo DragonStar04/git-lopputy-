@@ -46,6 +46,21 @@ yhteistyötä GitHubin avulla.
 4. Merge-konfliktin ratkaiseminen
 
 
+## Uusi ominaisuus
+
+Tässä haarassa harjoittelen uuden ominaisuuden
+lisäämistä projektiin.
+
+Lisäsin projektiin uuden osion feature-haarassa.
+
+
+## Projektin tila
+
+Tämä projekti on feature-haaran versio.
 ## Projektin tila
 
 Tämä projekti on main-haaran versio.
+
+
+
+Ratkaistu merge-konflikti säilyttämällä molemmat muutokset
