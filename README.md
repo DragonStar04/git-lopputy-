@@ -26,3 +26,8 @@ Opin käyttämään Git-versionhallintaa, tekemään committeja, luomaan haaroja
 ## Projektin kuvaus
 Tämä on harjoitustyö, jossa opettelen Gitin
 ja GitHubin käyttöä.
+
+
+## Projektin tavoitteet
+Harjoittelen versionhallintaa ja
+yhteistyötä GitHubin avulla.
