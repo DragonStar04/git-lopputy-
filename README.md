@@ -44,3 +44,8 @@ yhteistyötä GitHubin avulla.
 2. Commitien tekeminen
 3. Haarojen käyttäminen
 4. Merge-konfliktin ratkaiseminen
+
+
+## Projektin tila
+
+Tämä projekti on main-haaran versio.
