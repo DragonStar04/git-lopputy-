@@ -64,3 +64,27 @@ Tämä projekti on main-haaran versio.
 
 
 Ratkaistu merge-konflikti säilyttämällä molemmat muutokset
+
+
+
+## Työn toteutus
+
+### Mitä tein?
+
+Työn aikana loin uuden GitHub-repositorion ja kloonasin
+sen Visual Studio Codeen.
+
+Lisäsin README.md-tiedoston ja tein vähintään viisi
+committia Source Control -paneelin kautta.
+
+Loin uuden feature-haaran, johon tein muutoksia.
+Tämän jälkeen muutin samaa tiedoston kohtaa sekä
+main- että feature-haarassa, jolloin syntyi
+merge-konflikti.
+
+Ratkaisin merge-konfliktin Visual Studio Codessa
+käyttämällä Accept Both -toimintoa.
+
+Harjoittelin myös Push- ja Pull-toimintoja.
+Lopuksi loin GitHubissa Pull Requestin ja yhdistin
+feature-haaran main-haaraan.
