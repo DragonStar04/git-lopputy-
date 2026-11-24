@@ -60,3 +60,7 @@ Tämä projekti on feature-haaran versio.
 ## Projektin tila
 
 Tämä projekti on main-haaran versio.
+
+
+
+Ratkaistu merge-konflikti säilyttämällä molemmat muutokset
